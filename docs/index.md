@@ -6,9 +6,9 @@ Atividades com foco em ensinas comandos básicos da ferramenta git.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-
-code here
+```
+git status
+```
 # Lista de atividades
 
 1. Atividade-git-push
