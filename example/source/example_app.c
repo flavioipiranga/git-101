@@ -16,6 +16,8 @@ int main (void)
     //result = SUM_OPERATION (2,3);
     //printf("Doing some sum: %d\n", result);
     
+    printf("Pull alteration test.\n")
+    
 
     return 0;
 }
