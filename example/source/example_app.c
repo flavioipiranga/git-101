@@ -13,8 +13,8 @@ int main (void)
     result = MULT_OPERATION(2,3);
     printf("Doing some multiplication: %d\n", result);
 
-    result = SUM_OPERATION (2,3);
-    printf("Doing some sum: %d\n", result);
+    //result = SUM_OPERATION (2,3);
+    //printf("Doing some sum: %d\n", result);
     
 
     return 0;
